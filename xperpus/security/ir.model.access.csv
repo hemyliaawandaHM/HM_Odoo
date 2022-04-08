@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_perpus_pegawai,access.perpus.pegawai,model_perpus_pegawai,base.group_user,1,1,1,1
+access_perpus_buku,access.perpus.buku,model_perpus_buku,base.group_user,1,1,1,1
+access_perpus_kelompok,access.perpus.kelompok,model_perpus_kelompok,base.group_user,1,1,1,1
